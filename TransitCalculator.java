@@ -34,7 +34,7 @@ public class TransitCalculator {
         double weeklyCost = unlimited7Price();
         double monthlyCost = prices[2] / rides;
         System.out.println("[" + single + " " + weeklyCost + " " + monthlyCost + "]");
-        
+
         // System.out.println(single);
         // System.out.println(weeklyCost);
         // System.out.println(monthlyCost);
